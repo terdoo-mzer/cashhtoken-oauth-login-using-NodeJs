@@ -1,0 +1,14 @@
+{
+  "name": "cashtoken_oauth_node",
+  "version": "1.0.0",
+  "description": "A cashtoken oauth login project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terdoo Mzer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
